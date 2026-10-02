@@ -3,7 +3,7 @@ module.exports = {
 
     OWNER_NAME: "Madara",
 
-    OWNER_NUMBER: "212770495956",
+    OWNER_NUMBER: "212636204442",
 
     PREFIX: ".",
 
