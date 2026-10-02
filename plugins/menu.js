@@ -51,7 +51,7 @@ module.exports = {
 
         let menu = `
 ╭──────────────────────
-│      K I R A   X   M D
+│      MADARA
 ├──────────────────────
 │ USER     : ${pushname}
 │ PREFIX   : ${prefix}
