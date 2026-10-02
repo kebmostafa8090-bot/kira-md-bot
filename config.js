@@ -1,17 +1,17 @@
 module.exports = {
-    BOT_NAME: "KIRA X MD",
+    BOT_NAME: "Madara X MD",
 
-    OWNER_NAME: "Madhav",
+    OWNER_NAME: "Madara",
 
-    OWNER_NUMBER: "919188252308",
+    OWNER_NUMBER: "212770495956",
 
     PREFIX: ".",
 
-    FOOTER: "Powered By KIRA",
+    FOOTER: "Powered By Madara",
 
-    PACKNAME: "KIRA X MD",
+    PACKNAME: "Madara X MD",
 
-    AUTHOR: "Powered By KIRA",
+    AUTHOR: "Powered By Madara",
 
     VERSION: "1.0.0"
 };
