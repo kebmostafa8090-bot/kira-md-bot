@@ -1,9 +1,9 @@
 {
-  "name": "kira-x-md",
+  "name": "M",
   "version": "1.0.0",
-  "description": "KIRA X MD WhatsApp Bot",
+  "description": "M WhatsApp Bot",
   "main": "index.js",
-  "author": "Madhav",
+  "author": "M",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
